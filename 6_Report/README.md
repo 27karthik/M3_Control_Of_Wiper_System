@@ -70,16 +70,21 @@ Demand for save Equipments
 Low bargaining power buyers
 Econimical crisis
 # ENGINE ON STATE
-engine start
+![image](https://user-images.githubusercontent.com/102902139/168494437-2005f394-ba21-41a1-871c-c359701c2745.png)
+
 
 # WIPER SPEED IS LOW
-LOW
+![image](https://user-images.githubusercontent.com/102902139/168494485-890aa03b-495c-4175-87c8-3a59a9981b48.png)
+
 
 # WIPER SPEED IS MODERATE
-wiper start
+![image](https://user-images.githubusercontent.com/102902139/168494514-4a73d44e-c7b0-4b66-b2ef-2edc24deddea.png)
 
-WIPER SPEED IS HIGH
-HIGH
 
-OFF STATE
-off state
+# WIPER SPEED IS HIGH
+![image](https://user-images.githubusercontent.com/102902139/168494541-1cc6fbe7-4a5b-4586-9670-faca863ddcda.png)
+
+
+# OFF STATE
+![image](https://user-images.githubusercontent.com/102902139/168494570-da77bfb5-5c63-4c29-81e9-907a8f690d59.png)
+
